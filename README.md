@@ -1,2 +1,9 @@
 # nationalities.json
-Name Code of worldwide nationalities
+List of worldwide nationalities
+
+<code>
+  [{
+    "name": "Pakistani",
+    "value": "PK"
+  } ....]
+  <code>
