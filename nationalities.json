@@ -1,919 +1,919 @@
 [
   {
     "name": "Afghan",
-    "code": "AF"
+    "value": "AF"
   },
   {
     "name": "Albanian",
-    "code": "AL"
+    "value": "AL"
   },
   {
     "name": "Algerian",
-    "code": "DZ"
+    "value": "DZ"
   },
   {
     "name": "American Samoan",
-    "code": "AS"
+    "value": "AS"
   },
   {
     "name": "Andorran",
-    "code": "AD"
+    "value": "AD"
   },
   {
     "name": "Angolan",
-    "code": "AO"
+    "value": "AO"
   },
   {
     "name": "Anguillan",
-    "code": "AI"
+    "value": "AI"
   },
   {
     "name": "Antiguan, Barbudan",
-    "code": "AG"
+    "value": "AG"
   },
   {
     "name": "Argentine",
-    "code": "AR"
+    "value": "AR"
   },
   {
     "name": "Armenian",
-    "code": "AM"
+    "value": "AM"
   },
   {
     "name": "Aruban; Dutch",
-    "code": "AW"
+    "value": "AW"
   },
   {
     "name": "Australian",
-    "code": "AU"
+    "value": "AU"
   },
   {
     "name": "Austrian",
-    "code": "AT"
+    "value": "AT"
   },
   {
     "name": "Azerbaijani",
-    "code": "AZ"
+    "value": "AZ"
   },
   {
     "name": "Bahamian",
-    "code": "BS"
+    "value": "BS"
   },
   {
     "name": "Bahraini",
-    "code": "BH"
+    "value": "BH"
   },
   {
     "name": "Bangladeshi",
-    "code": "BD"
+    "value": "BD"
   },
   {
     "name": "Barbadian or Bajan (colloquial)",
-    "code": "BB"
+    "value": "BB"
   },
   {
     "name": "Belarusian",
-    "code": "BY"
+    "value": "BY"
   },
   {
     "name": "Belgian",
-    "code": "BE"
+    "value": "BE"
   },
   {
     "name": "Belizean",
-    "code": "BZ"
+    "value": "BZ"
   },
   {
     "name": "Beninese",
-    "code": "BJ"
+    "value": "BJ"
   },
   {
     "name": "Bermudian",
-    "code": "BM"
+    "value": "BM"
   },
   {
     "name": "Bhutanese",
-    "code": "BT"
+    "value": "BT"
   },
   {
     "name": "Bolivian",
-    "code": "BO"
+    "value": "BO"
   },
   {
     "name": "Bosnian, Herzegovinian",
-    "code": "BA"
+    "value": "BA"
   },
   {
     "name": "Motswana (singular), Batswana (plural)",
-    "code": "BW"
+    "value": "BW"
   },
   {
     "name": "Brazilian",
-    "code": "BR"
+    "value": "BR"
   },
   {
     "name": "British Virgin Islander",
-    "code": "VG"
+    "value": "VG"
   },
   {
     "name": "Bruneian",
-    "code": "BN"
+    "value": "BN"
   },
   {
     "name": "Bulgarian",
-    "code": "BG"
+    "value": "BG"
   },
   {
     "name": "Burkinabe",
-    "code": "BF"
+    "value": "BF"
   },
   {
     "name": "Burmese",
-    "code": "MM"
+    "value": "MM"
   },
   {
     "name": "Burundian",
-    "code": "BI"
+    "value": "BI"
   },
   {
     "name": "Cabo Verdean",
-    "code": "CV"
+    "value": "CV"
   },
   {
     "name": "Cambodian",
-    "code": "KH"
+    "value": "KH"
   },
   {
     "name": "Cameroonian",
-    "code": "CM"
+    "value": "CM"
   },
   {
     "name": "Canadian",
-    "code": "CA"
+    "value": "CA"
   },
   {
     "name": "Caymanian",
-    "code": "KY"
+    "value": "KY"
   },
   {
     "name": "Central African",
-    "code": "CF"
+    "value": "CF"
   },
   {
     "name": "Chadian",
-    "code": "TD"
+    "value": "TD"
   },
   {
     "name": "Chilean",
-    "code": "CL"
+    "value": "CL"
   },
   {
     "name": "Chinese",
-    "code": "CN"
+    "value": "CN"
   },
   {
     "name": "Christmas Island",
-    "code": "CX"
+    "value": "CX"
   },
   {
     "name": "Cocos Islander",
-    "code": "CC"
+    "value": "CC"
   },
   {
     "name": "Colombian",
-    "code": "CO"
+    "value": "CO"
   },
   {
     "name": "Comoran",
-    "code": "KM"
+    "value": "KM"
   },
   {
     "name": "Congolese or Congo",
-    "code": "CD"
+    "value": "CD"
   },
   {
     "name": "Congolese or Congo",
-    "code": "CG"
+    "value": "CG"
   },
   {
     "name": "Cook Islander",
-    "code": "CK"
+    "value": "CK"
   },
   {
     "name": "Costa Rican",
-    "code": "CR"
+    "value": "CR"
   },
   {
     "name": "Ivoirian"
   },
   {
     "name": "Croatian",
-    "code": "HR"
+    "value": "HR"
   },
   {
     "name": "Cuban",
-    "code": "CU"
+    "value": "CU"
   },
   {
     "name": "Curacaoan; Dutch"
   },
   {
     "name": "Cypriot",
-    "code": "CY"
+    "value": "CY"
   },
   {
     "name": "Czech"
   },
   {
     "name": "Danish",
-    "code": "DK"
+    "value": "DK"
   },
   {
     "name": "Djiboutian",
-    "code": "DJ"
+    "value": "DJ"
   },
   {
     "name": "Dominican",
-    "code": "DM"
+    "value": "DM"
   },
   {
     "name": "Dominican",
-    "code": "DO"
+    "value": "DO"
   },
   {
     "name": "Ecuadorian",
-    "code": "EC"
+    "value": "EC"
   },
   {
     "name": "Egyptian",
-    "code": "EG"
+    "value": "EG"
   },
   {
     "name": "Salvadoran",
-    "code": "SV"
+    "value": "SV"
   },
   {
     "name": "Equatorial Guinean or Equatoguinean",
-    "code": "GQ"
+    "value": "GQ"
   },
   {
     "name": "Eritrean",
-    "code": "ER"
+    "value": "ER"
   },
   {
     "name": "Estonian",
-    "code": "EE"
+    "value": "EE"
   },
   {
     "name": "Ethiopian",
-    "code": "ET"
+    "value": "ET"
   },
   {
     "name": "Falkland Island",
-    "code": "FK"
+    "value": "FK"
   },
   {
     "name": "Faroese",
-    "code": "FO"
+    "value": "FO"
   },
   {
     "name": "Fijian",
-    "code": "FJ"
+    "value": "FJ"
   },
   {
     "name": "Finnish",
-    "code": "FI"
+    "value": "FI"
   },
   {
     "name": "French",
-    "code": "FR"
+    "value": "FR"
   },
   {
     "name": "French Polynesian",
-    "code": "PF"
+    "value": "PF"
   },
   {
     "name": "Gabonese",
-    "code": "GA"
+    "value": "GA"
   },
   {
     "name": "Gambian",
-    "code": "GM"
+    "value": "GM"
   },
   {
     "name": "Palestine",
-    "code": "PS"
+    "value": "PS"
   },
   {
     "name": "Georgian",
-    "code": "GE"
+    "value": "GE"
   },
   {
     "name": "German",
-    "code": "DE"
+    "value": "DE"
   },
   {
     "name": "Ghanaian",
-    "code": "GH"
+    "value": "GH"
   },
   {
     "name": "Gibraltar",
-    "code": "GI"
+    "value": "GI"
   },
   {
     "name": "Greek",
-    "code": "GR"
+    "value": "GR"
   },
   {
     "name": "Greenlandic",
-    "code": "GL"
+    "value": "GL"
   },
   {
     "name": "Grenadian",
-    "code": "GD"
+    "value": "GD"
   },
   {
     "name": "Guamanian",
-    "code": "GU"
+    "value": "GU"
   },
   {
     "name": "Guatemalan",
-    "code": "GT"
+    "value": "GT"
   },
   {
     "name": "Channel Islander",
-    "code": "GG"
+    "value": "GG"
   },
   {
     "name": "Bissau-Guinean",
-    "code": "GW"
+    "value": "GW"
   },
   {
     "name": "Guinean",
-    "code": "GN"
+    "value": "GN"
   },
   {
     "name": "Guyanese",
-    "code": "GY"
+    "value": "GY"
   },
   {
     "name": "Haitian",
-    "code": "HT"
+    "value": "HT"
   },
   {
     "name": "Honduran",
-    "code": "HN"
+    "value": "HN"
   },
   {
     "name": "Chinese/Hong Kong",
-    "code": "HK"
+    "value": "HK"
   },
   {
     "name": "Hungarian",
-    "code": "HU"
+    "value": "HU"
   },
   {
     "name": "Icelandic",
-    "code": "IS"
+    "value": "IS"
   },
   {
     "name": "Indian",
-    "code": "IN"
+    "value": "IN"
   },
   {
     "name": "Indonesian",
-    "code": "ID"
+    "value": "ID"
   },
   {
     "name": "Iranian",
-    "code": "IR"
+    "value": "IR"
   },
   {
     "name": "Iraqi",
-    "code": "IQ"
+    "value": "IQ"
   },
   {
     "name": "Irish",
-    "code": "IE"
+    "value": "IE"
   },
   {
     "name": "Manx",
-    "code": "IM"
+    "value": "IM"
   },
   {
     "name": "Israeli",
-    "code": "IL"
+    "value": "IL"
   },
   {
     "name": "Italian",
-    "code": "IT"
+    "value": "IT"
   },
   {
     "name": "Jamaican",
-    "code": "JM"
+    "value": "JM"
   },
   {
     "name": "Japanese",
-    "code": "JP"
+    "value": "JP"
   },
   {
     "name": "Channel Islander",
-    "code": "JE"
+    "value": "JE"
   },
   {
     "name": "Jordanian",
-    "code": "JO"
+    "value": "JO"
   },
   {
     "name": "Kazakhstani",
-    "code": "KZ"
+    "value": "KZ"
   },
   {
     "name": "Kenyan",
-    "code": "KE"
+    "value": "KE"
   },
   {
     "name": "I-Kiribati",
-    "code": "KI"
+    "value": "KI"
   },
   {
     "name": "Korean",
-    "code": "KP"
+    "value": "KP"
   },
   {
     "name": "Korean",
-    "code": "KR"
+    "value": "KR"
   },
   {
     "name": "Kosovar (Albanian), Kosovski (Serbian)",
-    "code": "XK"
+    "value": "XK"
   },
   {
     "name": "Kuwaiti",
-    "code": "KW"
+    "value": "KW"
   },
   {
     "name": "Kyrgyzstani",
-    "code": "KG"
+    "value": "KG"
   },
   {
     "name": "Lao or Laotian",
-    "code": "LA"
+    "value": "LA"
   },
   {
     "name": "Latvian",
-    "code": "LV"
+    "value": "LV"
   },
   {
     "name": "Lebanese",
-    "code": "LB"
+    "value": "LB"
   },
   {
     "name": "Basotho",
-    "code": "LS"
+    "value": "LS"
   },
   {
     "name": "Liberian",
-    "code": "LR"
+    "value": "LR"
   },
   {
     "name": "Libyan",
-    "code": "LY"
+    "value": "LY"
   },
   {
     "name": "Liechtenstein",
-    "code": "LI"
+    "value": "LI"
   },
   {
     "name": "Lithuanian",
-    "code": "LT"
+    "value": "LT"
   },
   {
     "name": "Luxembourg",
-    "code": "LU"
+    "value": "LU"
   },
   {
     "name": "Chinese",
-    "code": "MO"
+    "value": "MO"
   },
   {
     "name": "Macedonian",
-    "code": "MK"
+    "value": "MK"
   },
   {
     "name": "Malagasy",
-    "code": "MG"
+    "value": "MG"
   },
   {
     "name": "Malawian",
-    "code": "MW"
+    "value": "MW"
   },
   {
     "name": "Malaysian",
-    "code": "MY"
+    "value": "MY"
   },
   {
     "name": "Maldivian",
-    "code": "MV"
+    "value": "MV"
   },
   {
     "name": "Malian",
-    "code": "ML"
+    "value": "ML"
   },
   {
     "name": "Maltese",
-    "code": "MT"
+    "value": "MT"
   },
   {
     "name": "Marshallese",
-    "code": "MH"
+    "value": "MH"
   },
   {
     "name": "Mauritanian",
-    "code": "MR"
+    "value": "MR"
   },
   {
     "name": "Mauritian",
-    "code": "MU"
+    "value": "MU"
   },
   {
     "name": "Mexican",
-    "code": "MX"
+    "value": "MX"
   },
   {
     "name": "Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese",
-    "code": "FM"
+    "value": "FM"
   },
   {
     "name": "Moldovan",
-    "code": "MD"
+    "value": "MD"
   },
   {
     "name": "Monegasque or Monacan",
-    "code": "MC"
+    "value": "MC"
   },
   {
     "name": "Mongolian",
-    "code": "MN"
+    "value": "MN"
   },
   {
     "name": "Montenegrin",
-    "code": "ME"
+    "value": "ME"
   },
   {
     "name": "Montserratian",
-    "code": "MS"
+    "value": "MS"
   },
   {
     "name": "Moroccan",
-    "code": "MA"
+    "value": "MA"
   },
   {
     "name": "Mozambican",
-    "code": "MZ"
+    "value": "MZ"
   },
   {
     "name": "Namibian",
-    "code": "NM"
+    "value": "NM"
   },
   {
     "name": "Nauruan",
-    "code": "NR"
+    "value": "NR"
   },
   {
     "name": "Nepali",
-    "code": "NP"
+    "value": "NP"
   },
   {
     "name": "Dutch",
-    "code": "NL"
+    "value": "NL"
   },
   {
     "name": "New Caledonian",
-    "code": "NC"
+    "value": "NC"
   },
   {
     "name": "New Zealand",
-    "code": "NZ"
+    "value": "NZ"
   },
   {
     "name": "Nicaraguan",
-    "code": "NI"
+    "value": "NI"
   },
   {
     "name": "Nigerian",
-    "code": "NG"
+    "value": "NG"
   },
   {
     "name": "Nigerien",
-    "code": "NE"
+    "value": "NE"
   },
   {
     "name": "Niuean",
-    "code": "NU"
+    "value": "NU"
   },
   {
     "name": "Norfolk Islander(s)",
-    "code": "NF"
+    "value": "NF"
   },
   {
     "name": "Norwegian",
-    "code": "NO"
+    "value": "NO"
   },
   {
     "name": "Omani",
-    "code": "OM"
+    "value": "OM"
   },
   {
     "name": "Pakistani",
-    "code": "PK"
+    "value": "PK"
   },
   {
     "name": "Palauan",
-    "code": "PW"
+    "value": "PW"
   },
   {
     "name": "Panamanian",
-    "code": "PA"
+    "value": "PA"
   },
   {
     "name": "Papua New Guinean",
-    "code": "PG"
+    "value": "PG"
   },
   {
     "name": "Paraguayan",
-    "code": "PY"
+    "value": "PY"
   },
   {
     "name": "Peruvian",
-    "code": "PE"
+    "value": "PE"
   },
   {
     "name": "Philippine",
-    "code": "PH"
+    "value": "PH"
   },
   {
     "name": "Pitcairn Islander",
-    "code": "PI"
+    "value": "PI"
   },
   {
     "name": "Polish",
-    "code": "PL"
+    "value": "PL"
   },
   {
     "name": "Portuguese",
-    "code": "PT"
+    "value": "PT"
   },
   {
     "name": "Puerto Rican",
-    "code": "PR"
+    "value": "PR"
   },
   {
     "name": "Qatari",
-    "code": "QA"
+    "value": "QA"
   },
   {
     "name": "Romanian",
-    "code": "RO"
+    "value": "RO"
   },
   {
     "name": "Russian",
-    "code": "RU"
+    "value": "RU"
   },
   {
     "name": "Rwandan",
-    "code": "RW"
+    "value": "RW"
   },
   {
     "name": "Saint Helenian",
-    "code": "SH"
+    "value": "SH"
   },
   {
     "name": "Kittitian, Nevisian",
-    "code": "KN"
+    "value": "KN"
   },
   {
     "name": "Saint Lucian",
-    "code": "LC"
+    "value": "LC"
   },
   {
     "name": "French",
-    "code": "PM"
+    "value": "PM"
   },
   {
     "name": "Saint Vincentian or Vincentian",
-    "code": "VC"
+    "value": "VC"
   },
   {
     "name": "Samoan",
-    "code": "WS"
+    "value": "WS"
   },
   {
     "name": "Sammarinese",
-    "code": "SM"
+    "value": "SM"
   },
   {
     "name": "Sao Tomean",
-    "code": "ST"
+    "value": "ST"
   },
   {
     "name": "Saudi or Saudi Arabian",
-    "code": "SA"
+    "value": "SA"
   },
   {
     "name": "Senegalese",
-    "code": "SN"
+    "value": "SN"
   },
   {
     "name": "Serbian",
-    "code": "RS"
+    "value": "RS"
   },
   {
     "name": "Seychellois",
-    "code": "SC"
+    "value": "SC"
   },
   {
     "name": "Sierra Leonean",
-    "code": "SL"
+    "value": "SL"
   },
   {
     "name": "Singapore",
-    "code": "SG"
+    "value": "SG"
   },
   {
     "name": "Slovak",
-    "code": "SK"
+    "value": "SK"
   },
   {
     "name": "Slovenian",
-    "code": "SI"
+    "value": "SI"
   },
   {
     "name": "Solomon Islander",
-    "code": "SB"
+    "value": "SB"
   },
   {
     "name": "Somali",
-    "code": "SO"
+    "value": "SO"
   },
   {
     "name": "South African",
-    "code": "ZA"
+    "value": "ZA"
   },
   {
     "name": "South Sudanese",
-    "code": "SS"
+    "value": "SS"
   },
   {
     "name": "Spanish",
-    "code": "ES"
+    "value": "ES"
   },
   {
     "name": "Sri Lankan",
-    "code": "LK"
+    "value": "LK"
   },
   {
     "name": "Sudanese",
-    "code": "SD"
+    "value": "SD"
   },
   {
     "name": "Surinamese",
-    "code": "SR"
+    "value": "SR"
   },
   {
     "name": "Swazi",
-    "code": "SZ"
+    "value": "SZ"
   },
   {
     "name": "Swedish",
-    "code": "SE"
+    "value": "SE"
   },
   {
     "name": "Swiss",
-    "code": "CH"
+    "value": "CH"
   },
   {
     "name": "Syrian",
-    "code": "SY"
+    "value": "SY"
   },
   {
     "name": "Taiwanese",
-    "code": "TW"
+    "value": "TW"
   },
   {
     "name": "Tajikistani",
-    "code": "TJ"
+    "value": "TJ"
   },
   {
     "name": "Tanzanian",
-    "code": "TZ"
+    "value": "TZ"
   },
   {
     "name": "Thai",
-    "code": "TH"
+    "value": "TH"
   },
   {
     "name": "Timorese",
-    "code": "TL"
+    "value": "TL"
   },
   {
     "name": "Togolese",
-    "code": "TG"
+    "value": "TG"
   },
   {
     "name": "Tokelauan",
-    "code": "TK"
+    "value": "TK"
   },
   {
     "name": "Tongan",
-    "code": "TO"
+    "value": "TO"
   },
   {
     "name": "Trinidadian, Tobagonian",
-    "code": "TT"
+    "value": "TT"
   },
   {
     "name": "Tunisian",
-    "code": "TN"
+    "value": "TN"
   },
   {
     "name": "Turkish",
-    "code": "TR"
+    "value": "TR"
   },
   {
     "name": "Turkmen",
-    "code": "TM"
+    "value": "TM"
   },
   {
     "name": "Turks",
-    "code": "TC"
+    "value": "TC"
   },
   {
     "name": "Tuvaluan",
-    "code": "TV"
+    "value": "TV"
   },
   {
     "name": "Ugandan",
-    "code": "UG"
+    "value": "UG"
   },
   {
     "name": "Ukrainian",
-    "code": "UA"
+    "value": "UA"
   },
   {
     "name": "Emirati",
-    "code": "AE"
+    "value": "AE"
   },
   {
     "name": "British",
-    "code": "UK"
+    "value": "UK"
   },
   {
     "name": "American",
-    "code": "US"
+    "value": "US"
   },
   {
     "name": "Uruguayan",
-    "code": "UY"
+    "value": "UY"
   },
   {
     "name": "Uzbekistani",
-    "code": "UZ"
+    "value": "UZ"
   },
   {
     "name": "Ni-Vanuatu",
-    "code": "VU"
+    "value": "VU"
   },
   {
     "name": "Venezuelan",
-    "code": "VE"
+    "value": "VE"
   },
   {
     "name": "Vietnamese",
-    "code": "VN"
+    "value": "VN"
   },
   {
     "name": "Virgin Islander",
-    "code": "VI"
+    "value": "VI"
   },
   {
     "name": "Wallisian, Futunan, or Wallis and Futuna Islander",
-    "code": "WF"
+    "value": "WF"
   },
   {
     "name": "Sahrawi, Sahrawian, Sahraouian",
-    "code": "EH"
+    "value": "EH"
   },
   {
     "name": "Yemeni",
-    "code": "YE"
+    "value": "YE"
   },
   {
     "name": "Zambian",
-    "code": "ZM"
+    "value": "ZM"
   },
   {
     "name": "Zimbabwean",
-    "code": "ZW"
+    "value": "ZW"
   }
 ]
