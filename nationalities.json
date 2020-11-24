@@ -1,0 +1,919 @@
+[
+  {
+    "name": "Afghan",
+    "code": "AF"
+  },
+  {
+    "name": "Albanian",
+    "code": "AL"
+  },
+  {
+    "name": "Algerian",
+    "code": "DZ"
+  },
+  {
+    "name": "American Samoan",
+    "code": "AS"
+  },
+  {
+    "name": "Andorran",
+    "code": "AD"
+  },
+  {
+    "name": "Angolan",
+    "code": "AO"
+  },
+  {
+    "name": "Anguillan",
+    "code": "AI"
+  },
+  {
+    "name": "Antiguan, Barbudan",
+    "code": "AG"
+  },
+  {
+    "name": "Argentine",
+    "code": "AR"
+  },
+  {
+    "name": "Armenian",
+    "code": "AM"
+  },
+  {
+    "name": "Aruban; Dutch",
+    "code": "AW"
+  },
+  {
+    "name": "Australian",
+    "code": "AU"
+  },
+  {
+    "name": "Austrian",
+    "code": "AT"
+  },
+  {
+    "name": "Azerbaijani",
+    "code": "AZ"
+  },
+  {
+    "name": "Bahamian",
+    "code": "BS"
+  },
+  {
+    "name": "Bahraini",
+    "code": "BH"
+  },
+  {
+    "name": "Bangladeshi",
+    "code": "BD"
+  },
+  {
+    "name": "Barbadian or Bajan (colloquial)",
+    "code": "BB"
+  },
+  {
+    "name": "Belarusian",
+    "code": "BY"
+  },
+  {
+    "name": "Belgian",
+    "code": "BE"
+  },
+  {
+    "name": "Belizean",
+    "code": "BZ"
+  },
+  {
+    "name": "Beninese",
+    "code": "BJ"
+  },
+  {
+    "name": "Bermudian",
+    "code": "BM"
+  },
+  {
+    "name": "Bhutanese",
+    "code": "BT"
+  },
+  {
+    "name": "Bolivian",
+    "code": "BO"
+  },
+  {
+    "name": "Bosnian, Herzegovinian",
+    "code": "BA"
+  },
+  {
+    "name": "Motswana (singular), Batswana (plural)",
+    "code": "BW"
+  },
+  {
+    "name": "Brazilian",
+    "code": "BR"
+  },
+  {
+    "name": "British Virgin Islander",
+    "code": "VG"
+  },
+  {
+    "name": "Bruneian",
+    "code": "BN"
+  },
+  {
+    "name": "Bulgarian",
+    "code": "BG"
+  },
+  {
+    "name": "Burkinabe",
+    "code": "BF"
+  },
+  {
+    "name": "Burmese",
+    "code": "MM"
+  },
+  {
+    "name": "Burundian",
+    "code": "BI"
+  },
+  {
+    "name": "Cabo Verdean",
+    "code": "CV"
+  },
+  {
+    "name": "Cambodian",
+    "code": "KH"
+  },
+  {
+    "name": "Cameroonian",
+    "code": "CM"
+  },
+  {
+    "name": "Canadian",
+    "code": "CA"
+  },
+  {
+    "name": "Caymanian",
+    "code": "KY"
+  },
+  {
+    "name": "Central African",
+    "code": "CF"
+  },
+  {
+    "name": "Chadian",
+    "code": "TD"
+  },
+  {
+    "name": "Chilean",
+    "code": "CL"
+  },
+  {
+    "name": "Chinese",
+    "code": "CN"
+  },
+  {
+    "name": "Christmas Island",
+    "code": "CX"
+  },
+  {
+    "name": "Cocos Islander",
+    "code": "CC"
+  },
+  {
+    "name": "Colombian",
+    "code": "CO"
+  },
+  {
+    "name": "Comoran",
+    "code": "KM"
+  },
+  {
+    "name": "Congolese or Congo",
+    "code": "CD"
+  },
+  {
+    "name": "Congolese or Congo",
+    "code": "CG"
+  },
+  {
+    "name": "Cook Islander",
+    "code": "CK"
+  },
+  {
+    "name": "Costa Rican",
+    "code": "CR"
+  },
+  {
+    "name": "Ivoirian"
+  },
+  {
+    "name": "Croatian",
+    "code": "HR"
+  },
+  {
+    "name": "Cuban",
+    "code": "CU"
+  },
+  {
+    "name": "Curacaoan; Dutch"
+  },
+  {
+    "name": "Cypriot",
+    "code": "CY"
+  },
+  {
+    "name": "Czech"
+  },
+  {
+    "name": "Danish",
+    "code": "DK"
+  },
+  {
+    "name": "Djiboutian",
+    "code": "DJ"
+  },
+  {
+    "name": "Dominican",
+    "code": "DM"
+  },
+  {
+    "name": "Dominican",
+    "code": "DO"
+  },
+  {
+    "name": "Ecuadorian",
+    "code": "EC"
+  },
+  {
+    "name": "Egyptian",
+    "code": "EG"
+  },
+  {
+    "name": "Salvadoran",
+    "code": "SV"
+  },
+  {
+    "name": "Equatorial Guinean or Equatoguinean",
+    "code": "GQ"
+  },
+  {
+    "name": "Eritrean",
+    "code": "ER"
+  },
+  {
+    "name": "Estonian",
+    "code": "EE"
+  },
+  {
+    "name": "Ethiopian",
+    "code": "ET"
+  },
+  {
+    "name": "Falkland Island",
+    "code": "FK"
+  },
+  {
+    "name": "Faroese",
+    "code": "FO"
+  },
+  {
+    "name": "Fijian",
+    "code": "FJ"
+  },
+  {
+    "name": "Finnish",
+    "code": "FI"
+  },
+  {
+    "name": "French",
+    "code": "FR"
+  },
+  {
+    "name": "French Polynesian",
+    "code": "PF"
+  },
+  {
+    "name": "Gabonese",
+    "code": "GA"
+  },
+  {
+    "name": "Gambian",
+    "code": "GM"
+  },
+  {
+    "name": "Palestine",
+    "code": "PS"
+  },
+  {
+    "name": "Georgian",
+    "code": "GE"
+  },
+  {
+    "name": "German",
+    "code": "DE"
+  },
+  {
+    "name": "Ghanaian",
+    "code": "GH"
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI"
+  },
+  {
+    "name": "Greek",
+    "code": "GR"
+  },
+  {
+    "name": "Greenlandic",
+    "code": "GL"
+  },
+  {
+    "name": "Grenadian",
+    "code": "GD"
+  },
+  {
+    "name": "Guamanian",
+    "code": "GU"
+  },
+  {
+    "name": "Guatemalan",
+    "code": "GT"
+  },
+  {
+    "name": "Channel Islander",
+    "code": "GG"
+  },
+  {
+    "name": "Bissau-Guinean",
+    "code": "GW"
+  },
+  {
+    "name": "Guinean",
+    "code": "GN"
+  },
+  {
+    "name": "Guyanese",
+    "code": "GY"
+  },
+  {
+    "name": "Haitian",
+    "code": "HT"
+  },
+  {
+    "name": "Honduran",
+    "code": "HN"
+  },
+  {
+    "name": "Chinese/Hong Kong",
+    "code": "HK"
+  },
+  {
+    "name": "Hungarian",
+    "code": "HU"
+  },
+  {
+    "name": "Icelandic",
+    "code": "IS"
+  },
+  {
+    "name": "Indian",
+    "code": "IN"
+  },
+  {
+    "name": "Indonesian",
+    "code": "ID"
+  },
+  {
+    "name": "Iranian",
+    "code": "IR"
+  },
+  {
+    "name": "Iraqi",
+    "code": "IQ"
+  },
+  {
+    "name": "Irish",
+    "code": "IE"
+  },
+  {
+    "name": "Manx",
+    "code": "IM"
+  },
+  {
+    "name": "Israeli",
+    "code": "IL"
+  },
+  {
+    "name": "Italian",
+    "code": "IT"
+  },
+  {
+    "name": "Jamaican",
+    "code": "JM"
+  },
+  {
+    "name": "Japanese",
+    "code": "JP"
+  },
+  {
+    "name": "Channel Islander",
+    "code": "JE"
+  },
+  {
+    "name": "Jordanian",
+    "code": "JO"
+  },
+  {
+    "name": "Kazakhstani",
+    "code": "KZ"
+  },
+  {
+    "name": "Kenyan",
+    "code": "KE"
+  },
+  {
+    "name": "I-Kiribati",
+    "code": "KI"
+  },
+  {
+    "name": "Korean",
+    "code": "KP"
+  },
+  {
+    "name": "Korean",
+    "code": "KR"
+  },
+  {
+    "name": "Kosovar (Albanian), Kosovski (Serbian)",
+    "code": "XK"
+  },
+  {
+    "name": "Kuwaiti",
+    "code": "KW"
+  },
+  {
+    "name": "Kyrgyzstani",
+    "code": "KG"
+  },
+  {
+    "name": "Lao or Laotian",
+    "code": "LA"
+  },
+  {
+    "name": "Latvian",
+    "code": "LV"
+  },
+  {
+    "name": "Lebanese",
+    "code": "LB"
+  },
+  {
+    "name": "Basotho",
+    "code": "LS"
+  },
+  {
+    "name": "Liberian",
+    "code": "LR"
+  },
+  {
+    "name": "Libyan",
+    "code": "LY"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI"
+  },
+  {
+    "name": "Lithuanian",
+    "code": "LT"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU"
+  },
+  {
+    "name": "Chinese",
+    "code": "MO"
+  },
+  {
+    "name": "Macedonian",
+    "code": "MK"
+  },
+  {
+    "name": "Malagasy",
+    "code": "MG"
+  },
+  {
+    "name": "Malawian",
+    "code": "MW"
+  },
+  {
+    "name": "Malaysian",
+    "code": "MY"
+  },
+  {
+    "name": "Maldivian",
+    "code": "MV"
+  },
+  {
+    "name": "Malian",
+    "code": "ML"
+  },
+  {
+    "name": "Maltese",
+    "code": "MT"
+  },
+  {
+    "name": "Marshallese",
+    "code": "MH"
+  },
+  {
+    "name": "Mauritanian",
+    "code": "MR"
+  },
+  {
+    "name": "Mauritian",
+    "code": "MU"
+  },
+  {
+    "name": "Mexican",
+    "code": "MX"
+  },
+  {
+    "name": "Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese",
+    "code": "FM"
+  },
+  {
+    "name": "Moldovan",
+    "code": "MD"
+  },
+  {
+    "name": "Monegasque or Monacan",
+    "code": "MC"
+  },
+  {
+    "name": "Mongolian",
+    "code": "MN"
+  },
+  {
+    "name": "Montenegrin",
+    "code": "ME"
+  },
+  {
+    "name": "Montserratian",
+    "code": "MS"
+  },
+  {
+    "name": "Moroccan",
+    "code": "MA"
+  },
+  {
+    "name": "Mozambican",
+    "code": "MZ"
+  },
+  {
+    "name": "Namibian",
+    "code": "NM"
+  },
+  {
+    "name": "Nauruan",
+    "code": "NR"
+  },
+  {
+    "name": "Nepali",
+    "code": "NP"
+  },
+  {
+    "name": "Dutch",
+    "code": "NL"
+  },
+  {
+    "name": "New Caledonian",
+    "code": "NC"
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ"
+  },
+  {
+    "name": "Nicaraguan",
+    "code": "NI"
+  },
+  {
+    "name": "Nigerian",
+    "code": "NG"
+  },
+  {
+    "name": "Nigerien",
+    "code": "NE"
+  },
+  {
+    "name": "Niuean",
+    "code": "NU"
+  },
+  {
+    "name": "Norfolk Islander(s)",
+    "code": "NF"
+  },
+  {
+    "name": "Norwegian",
+    "code": "NO"
+  },
+  {
+    "name": "Omani",
+    "code": "OM"
+  },
+  {
+    "name": "Pakistani",
+    "code": "PK"
+  },
+  {
+    "name": "Palauan",
+    "code": "PW"
+  },
+  {
+    "name": "Panamanian",
+    "code": "PA"
+  },
+  {
+    "name": "Papua New Guinean",
+    "code": "PG"
+  },
+  {
+    "name": "Paraguayan",
+    "code": "PY"
+  },
+  {
+    "name": "Peruvian",
+    "code": "PE"
+  },
+  {
+    "name": "Philippine",
+    "code": "PH"
+  },
+  {
+    "name": "Pitcairn Islander",
+    "code": "PI"
+  },
+  {
+    "name": "Polish",
+    "code": "PL"
+  },
+  {
+    "name": "Portuguese",
+    "code": "PT"
+  },
+  {
+    "name": "Puerto Rican",
+    "code": "PR"
+  },
+  {
+    "name": "Qatari",
+    "code": "QA"
+  },
+  {
+    "name": "Romanian",
+    "code": "RO"
+  },
+  {
+    "name": "Russian",
+    "code": "RU"
+  },
+  {
+    "name": "Rwandan",
+    "code": "RW"
+  },
+  {
+    "name": "Saint Helenian",
+    "code": "SH"
+  },
+  {
+    "name": "Kittitian, Nevisian",
+    "code": "KN"
+  },
+  {
+    "name": "Saint Lucian",
+    "code": "LC"
+  },
+  {
+    "name": "French",
+    "code": "PM"
+  },
+  {
+    "name": "Saint Vincentian or Vincentian",
+    "code": "VC"
+  },
+  {
+    "name": "Samoan",
+    "code": "WS"
+  },
+  {
+    "name": "Sammarinese",
+    "code": "SM"
+  },
+  {
+    "name": "Sao Tomean",
+    "code": "ST"
+  },
+  {
+    "name": "Saudi or Saudi Arabian",
+    "code": "SA"
+  },
+  {
+    "name": "Senegalese",
+    "code": "SN"
+  },
+  {
+    "name": "Serbian",
+    "code": "RS"
+  },
+  {
+    "name": "Seychellois",
+    "code": "SC"
+  },
+  {
+    "name": "Sierra Leonean",
+    "code": "SL"
+  },
+  {
+    "name": "Singapore",
+    "code": "SG"
+  },
+  {
+    "name": "Slovak",
+    "code": "SK"
+  },
+  {
+    "name": "Slovenian",
+    "code": "SI"
+  },
+  {
+    "name": "Solomon Islander",
+    "code": "SB"
+  },
+  {
+    "name": "Somali",
+    "code": "SO"
+  },
+  {
+    "name": "South African",
+    "code": "ZA"
+  },
+  {
+    "name": "South Sudanese",
+    "code": "SS"
+  },
+  {
+    "name": "Spanish",
+    "code": "ES"
+  },
+  {
+    "name": "Sri Lankan",
+    "code": "LK"
+  },
+  {
+    "name": "Sudanese",
+    "code": "SD"
+  },
+  {
+    "name": "Surinamese",
+    "code": "SR"
+  },
+  {
+    "name": "Swazi",
+    "code": "SZ"
+  },
+  {
+    "name": "Swedish",
+    "code": "SE"
+  },
+  {
+    "name": "Swiss",
+    "code": "CH"
+  },
+  {
+    "name": "Syrian",
+    "code": "SY"
+  },
+  {
+    "name": "Taiwanese",
+    "code": "TW"
+  },
+  {
+    "name": "Tajikistani",
+    "code": "TJ"
+  },
+  {
+    "name": "Tanzanian",
+    "code": "TZ"
+  },
+  {
+    "name": "Thai",
+    "code": "TH"
+  },
+  {
+    "name": "Timorese",
+    "code": "TL"
+  },
+  {
+    "name": "Togolese",
+    "code": "TG"
+  },
+  {
+    "name": "Tokelauan",
+    "code": "TK"
+  },
+  {
+    "name": "Tongan",
+    "code": "TO"
+  },
+  {
+    "name": "Trinidadian, Tobagonian",
+    "code": "TT"
+  },
+  {
+    "name": "Tunisian",
+    "code": "TN"
+  },
+  {
+    "name": "Turkish",
+    "code": "TR"
+  },
+  {
+    "name": "Turkmen",
+    "code": "TM"
+  },
+  {
+    "name": "Turks",
+    "code": "TC"
+  },
+  {
+    "name": "Tuvaluan",
+    "code": "TV"
+  },
+  {
+    "name": "Ugandan",
+    "code": "UG"
+  },
+  {
+    "name": "Ukrainian",
+    "code": "UA"
+  },
+  {
+    "name": "Emirati",
+    "code": "AE"
+  },
+  {
+    "name": "British",
+    "code": "UK"
+  },
+  {
+    "name": "American",
+    "code": "US"
+  },
+  {
+    "name": "Uruguayan",
+    "code": "UY"
+  },
+  {
+    "name": "Uzbekistani",
+    "code": "UZ"
+  },
+  {
+    "name": "Ni-Vanuatu",
+    "code": "VU"
+  },
+  {
+    "name": "Venezuelan",
+    "code": "VE"
+  },
+  {
+    "name": "Vietnamese",
+    "code": "VN"
+  },
+  {
+    "name": "Virgin Islander",
+    "code": "VI"
+  },
+  {
+    "name": "Wallisian, Futunan, or Wallis and Futuna Islander",
+    "code": "WF"
+  },
+  {
+    "name": "Sahrawi, Sahrawian, Sahraouian",
+    "code": "EH"
+  },
+  {
+    "name": "Yemeni",
+    "code": "YE"
+  },
+  {
+    "name": "Zambian",
+    "code": "ZM"
+  },
+  {
+    "name": "Zimbabwean",
+    "code": "ZW"
+  }
+]
